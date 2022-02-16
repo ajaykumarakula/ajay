@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: ajaykumar.a
+Build-Jdk: 17.0.1
+Implementation-Title: springexem
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example.exem
+Implementation-URL: https://spring.io/projects/spring-boot/springexem
+Created-By: Maven Integration for Eclipse
+
